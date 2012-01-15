@@ -1,0 +1,26 @@
+If you are reading this, then you have successfully connected to github. 
+This repository stores gpuclphas3441ruben.
+
+As mentioned, github does not allow free private repositories. 
+As such, this group project will have to operate publicly, 
+only to be deleted at the end of the group project. 
+
+Thanks to the public nature, please do not attract unnecessary 
+attention. We cannot forcefully deal with it. 
+
+As of the start of the project, please make sure you can edit 
+the file TestHereFirst with your arbitrary content. 
+
+Subsequently, we can keep a roadmap and other documentation 
+here, along with the main files. The most important file is 
+report.tex, which _is_ the LaTeX source of the final report. 
+Please strive to keep this report.tex file in working order 
+at all times --- it should be always possible to create the 
+PDF of our report from this file. If anyone of you wish to 
+check if it is working, or see how your changes look, you 
+can feel free to contact me (Xiao) to compile it for you. 
+Alternatively, for your own practise, you may want to run 
+the program on report.tex yourself. Again, feel free to do 
+so, as long as you do not clobber it. 
+
+Finally, play around and get used to github. Enjoy!
