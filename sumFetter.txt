@@ -1,0 +1,165 @@
+Name: Fetter et al
+Year: 1990
+
+In this paper, the authors reviewed a few methods of detecting nuclear 
+fission weaponry of their time. They did not have access to the any 
+nuclear weaponry and material, and proceeded to numerically calculate 
+the properties of the weapon models they were experimenting upon. For 
+this purpose, they considered 4 different models, 2 with Weapons-grade 
+Uranium, and the other 2 with Weapons-grade Plutonium. The other factor 
+they took into account was the type of tamper used; the material that 
+blocks the expansion of the nuclear reaction so that it stays activated 
+for longer. They considered, for both, the Depleted Uranium and the 
+Tungsten tampers. 
+
+As is stated very early in the paper, the point of the exercise is to 
+stretch the boundaries. Of the 4 designs, the Uranium/Tungsten combo 
+is virtually undetectable. The group did not believe that it is within 
+reason for nuclear weapon states to utilise such a devious combination 
+for the fact that the design is much more expensive per bomb than is 
+required. The Plutonium/Uranium combo, which is much more detectable, 
+is closer to what they would expect. The point of the unreasonably 
+difficult U/T combo is to set a meaningful lower bound, and happily, 
+I intend to expand upon this later in our report. 
+
+NB: The Uranium bombs considered are 12kg as compared to the 4kg 
+Plutonium bombs. This is a huge difference in efficiency and cost. 
+
+Passive Detection
+
+For any fissile weapon, radiation is emitted. The detection process 
+relies heavily upon just 2 aspects: neutrons and gamma rays. Of the 
+2 aspects, if we are able to get a signal from neutrons, we should. 
+One of the best reasons for this choice is the fact that the natural 
+background radiation of neutrons is much less than that of gamma rays. 
+Another difference between neutrons and photons lies in the fact that, 
+while both can be produced at varying energies, the detection of 
+neutrons tends to capture them at all energies whereas photons can be 
+tuned. That flexibility of tuning allows us to look for specific 
+signatures. However, that also means that we have to tune, or else we 
+will get nothing. This procedure takes time. 
+
+If the signal from the bomb is strong enough to be detected simply, 
+then our problem is small (we will still have to consider cheating). 
+If the signal is known to be less than, but still comparable to, the 
+background radiation, then there exists this method of waiting for 
+the signal counts to accumulate until we can be rather sure that 
+there is a source other than background radiation. 
+
+Considering an exposure time of 1 hour, then, the simulations predict 
+that gamma ray detectors will be useful at least 15 meters away from 
+the bomb if the tamper material is Depleted Uranium. If the fissile 
+material is Plutonium, then neutron detection is effective at least 
+40 meters away, up to a whopping 110 meters. The devious U/T combo, 
+on the other hand, is not detectable even if you put the detector 
+right on the surface and wait the whole hour. 
+
+NB: For gamma rays, a thin sheet of lead is all that is required to 
+shield the detector from unwanted other background radiation. This 
+allows us to be rather sure the offending radiation is from the bomb 
+and not elsewhere. Neutrons, on the other hand, require obscene 
+amounts of, sadly, low-density material to block. This means that 
+verification should be done bomb by bomb, far away from all other 
+possible sources of confusion. All these are reversible problems: 
+the ease of shielding gamma rays makes it possible to fake and so on. 
+
+NB2: The detection methods and machinery vary widely. Handheld 
+detectors up to 10kg were considered, as well as transportable ones 
+up to 100kg. The journal the paper was published in happened to carry 
+in the same issue a report of a helicopter-mounted version much larger. 
+
+Funny Note: The paper states that radiation shielding to evade 
+detection may be absurdly huge, but the warheads themselves can be 
+put into shielded box or room during inspection anyway.
+
+To evade passive neutron detection in the Plutonium bombs they 
+considered, is possible via purification. However, to reduce the 
+concentration of Plutonium-240 in the considered sample would cost 
+one to several million dollars per warhead. 
+
+Active detection
+
+To irradiate the bomb to "see" inside, we need to choose a type of 
+radiation that is neither lacking nor too penetrative. If it is 
+too penetrative, then there might be a lack of contrast in the 
+photograph to see anything. If we simply increase the source strength 
+to compensate the lack of penetrability, we might endanger both the 
+bomb and everyone nearby. 
+
+The type of radiation chosen must also be able to distinguish 
+between nuclear material and not. At the time, only neutrons and 
+gamma rays can be produced in sufficient quantity by portable 
+equipment. Neither alone would be a good discriminant. Neutron 
+detectors are incapable of "seeing clearly", and although in 
+quite some cases are much better than photons at discerning the 
+materials used, neutrons cannot distinguish between some common 
+legitimate materials from nuclear materials. Photons, on the 
+other hand, distinguish the light materials from the fissile 
+well, but are useless once heavy materials are involved. 
+
+Radiography 
+
+If we simply take a picture, then an "airport scan" style machine of 
+large sizes can be easily accomodated. The method, however, is 
+known to reveal too much information, and would require a verified 
+computer program (expensive!) to hide the excess information without 
+jeopardising the method itself. The paper notes that, since this 
+method needs both sides of the warhead, it may require the warhead 
+to be removed from submarines before detection. 
+
+An obvious use of radiography is to discriminate between particular 
+types of objects under controlled conditions. Prototype nuclear and 
+conventional missiles of the same type will be needed to calibrate 
+the system, along with the can of worms. If the decision is to allow 
+only passive detection, radiography can be used as spot checks. 
+
+Induced Fission
+
+If we are allowed to, inducing fission is the most secure way to 
+detect fissile material (by definition!). Here, again, the main 
+characters are neutrons and photons. The paper notes, however, that 
+for all the effort, it makes no sense to use photons to induce 
+fission due to the overwhelming costs and danger. The costs are 
+high because the material used to make the bomb tends to interfere 
+with the gamma ray induction. 
+
+However, even using neutrons, the problem is huge. When we induce 
+fission, we have a choice of the energy of the neutron to input, and 
+whether to look for gamma rays or neutrons. The fission produces 
+more gamma rays, but again we are totally swarmed by the background 
+radiation. If, instead, we monitor neutrons, we can get useful readings 
+from prompt or delayed neutrons. Suppose we want to detect prompt 
+neutrons. The sample considered has a resonance near 14MeV where the 
+neutrons at that energy range is absorbed over 10 times more than 
+weaker neutrons. However, using high energy neutrons means that 
+inelastic scattering is possible, and the neutron background radiation 
+would spike horrendously. If we use slow neutrons, however, we would 
+need a source of neutrons so large and strong that carbon-based life 
+is going to be endangered. Delayed neutrons, however, is produced 
+at a low rate. 
+
+So, the whole process of inducing fission is roughly only useful for 
+the devious combo. Otherwise, the costs are not justifiable, since 
+the detection rate is far worse than passive detection. 
+
+Ending Notes: 
+
+The paper includes some costs of machinery that are possibly quite 
+useful. 
+
+Meow's Take: 
+
+There are a few directions we can take this. If we are in the know 
+of what the nuclear design roughly is, with the materials used 
+known, then detection is possible as long as it is not the devious 
+combination. 
+
+However, the paper itself talks nothing about the case where a dud 
+is faked to be a nuclear bomb. All of the material can be fooled if 
+we just add a layer outside that is fissile. All of the verification 
+process requires multiple layers of trust that do not seem sensible 
+if we consider non-nuclear weapon states that are desperate to make 
+just one bomb. Overwhelming costs for many bombs make no sense, but 
+an effort that only wants one bomb for negotiation purposes can 
+easily put up with the cost. That it is possible means that it will 
+be exploited. 
